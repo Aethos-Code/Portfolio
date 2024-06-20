@@ -1,0 +1,16 @@
+body {
+  background-color: #101010;
+  padding-left: 33%;
+  font-family: Inter;
+  margin: 0;
+  }
+
+  
+
+
+
+  @media (max-width: 600px) {
+    body {
+      padding-left: 0%;
+    }
+  }
